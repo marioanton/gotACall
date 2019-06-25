@@ -2,7 +2,7 @@
 Description=Incoming Call System Manager
 
 [Service]
-ExecStart= /home/pi/incoming.py
+ExecStart= /home/pi/callAndWhatsapp.py
 
 [Install]
 WantedBy=multi-user.target
