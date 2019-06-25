@@ -8,7 +8,7 @@ This repo has got two barely useful things.
 They rely on few things:
  - raspberry pi
  - GSM module (SIM900)
- - yowsup api, to get registered with whastapp, to send whastapps
+ - yowsup api, to get registered with whastapp, to send whastapps (https://github.com/tgalal/yowsup/wiki/Sample-Application)
 
 #### callOnly.py ####
 
@@ -35,6 +35,4 @@ They rely on few things:
 - Check https://en.wikipedia.org/wiki/Mobile_country_code for *mnc and mcc* codes
 
 
-# sim900
-
-https://www.makerlab-electronics.com/my_uploads/2015/05/SIM900-GSM-Shield-03.jpg
+ 
