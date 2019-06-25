@@ -6,9 +6,7 @@ This repo has got two barely useful things.
 Both rely on few things:
  - raspberry pi
  - GSM module (SIM900)
- - yowsup api 
-  - to get registered with whastapp
-  - to send whastapps
+ - yowsup api, to get registered with whastapp, to send whastapps
 
 #### callOnly.py ####
 
