@@ -4,11 +4,11 @@ This repo has got two barely useful things.
 - callAndWhatsapp, which does same as above but logging to a different location + send whatsapps to a given number with the number that is calling you.
 
 Both rely on few things:
-. raspberry pi
-. GSM module (SIM900)
-. yowsup api 
-  . to get registered with whastapp
-  . to send whastapps
+ - raspberry pi
+ - GSM module (SIM900)
+ - yowsup api 
+  - to get registered with whastapp
+  - to send whastapps
 
 #### callOnly.py ####
 
