@@ -33,3 +33,8 @@ They rely on few things:
 
 ```yowsup-cli registration --requestcode sms --config-phone 44XXXXXXXXX --config-cc 44 --config-mcc 234 --config-mnc 002```
 - Check https://en.wikipedia.org/wiki/Mobile_country_code for *mnc and mcc* codes
+
+
+# sim900
+
+https://www.makerlab-electronics.com/my_uploads/2015/05/SIM900-GSM-Shield-03.jpg
