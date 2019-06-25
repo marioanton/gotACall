@@ -27,3 +27,9 @@ They rely on few things:
 - sticks number and message received there.
 - to see content need to validate and check AT commands in TTYAMA0.
 - requires to modify script to change from, to and whastapp auth code.
+
+
+### how to generate auth code with whatsapp ### 
+
+```yowsup-cli registration --requestcode sms --config-phone 44XXXXXXXXX --config-cc 44 --config-mcc 234 --config-mnc 002```
+- Check https://en.wikipedia.org/wiki/Mobile_country_code for *mnc and mcc* codes
