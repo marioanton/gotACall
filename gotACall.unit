@@ -1,0 +1,9 @@
+[Unit]
+Description=Incoming Call System Manager
+
+[Service]
+ExecStart= /home/pi/incoming.py
+
+[Install]
+WantedBy=multi-user.target
+Alias=incomingcall.service
